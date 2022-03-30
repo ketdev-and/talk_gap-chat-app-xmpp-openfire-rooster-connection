@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TalkGapMessenger</string>
+
+
+    <string name="user_example_com">user@example.com</string>
+    <string name="server_text">user@server.com</string>
+    <string name="last_message">This is the last message we exchanged that is sstored in the.</string>
+
+    <string name="profile_pic_width">72dp</string>
+    <string name="profile_pic_height">72dp</string>
+    <string name="send_message">SEND</string>
+    <string name="received_message">Receive Message</string>
+    <string name="title_activity_contact_list"> Choose Contact</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_contact_label_text">Jabber id</string>
+    <string name="add_contact_contact_confirm_text">OK</string>
+    <string name="add_contact_cancel_text">CANCEL</string>
+    <string name="prompt_jid">Enter Username or Jid</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="error_invalid_password"> Invalid Password  </string>
+    <string name="error_field_required">  This field is required </string>
+    <string name="error_invalid_jid"> This username is invalid  </string>
+    <string name="action_sign_in_short">Sign In </string>
+    <string name="error_incorrect_password"> Wrong password </string>
+
+    <string name="permission_rationale">"Contact Premission are need for providing Jid completions."</string>
+    <string name="action_sign_in">Login</string>
+    <string name="me">Me</string>
+    <string name="title_me_activity">Me</string>
+    <string name="ignore_bat_allow">Allow</string>
+    <string name="delete_contact">Delete Contact    </string>
+    <string name="contact_details">Contact Details</string>
+    <string name="add_chat">Add chat</string>
+    <string name="delete_chat">Delete Chat</string>
+    <string name="add_contact_confirm_text">OK</string>
+    <string name="contact_details_chat_view">Contact Details</string>
+    <string name="send_image">Send Image</string>
+    <string name="receive_video">Receive Video</string>
+    <string name="send_office">Send Office</string>
+    <string name="send_file">Send File</string>
+
+</resources>
